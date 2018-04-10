@@ -1,2 +1,3 @@
 # Hello_World
-learning to use gitHub
+hopefully by the end of this tutorial I'll feel better while using gitHub. 
+it's not as complicated as a thouht 
